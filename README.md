@@ -10,5 +10,8 @@ At the moment I want to get a job in back-end development, if you can see it, yo
 
 ### And this is my languages used information
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madao33)](https://github.com/anuraghazra/github-readme-stats)
+[![madao33's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madao33)](https://github.com/anuraghazra/github-readme-stats)
 
+## About my activity in github
+
+[![madao33's github activity graph](https://activity-graph.herokuapp.com/graph?username=madao33&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
