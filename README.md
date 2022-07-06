@@ -6,7 +6,7 @@ At the moment I want to get a job in back-end development, if you can see it, yo
 
 ### Here is something about my contribute
 
-[![madao33's GitHub stats](https://github-readme-stats.vercel.app/api?username=madao33)](https://github.com/anuraghazra/github-readme-stats)
+[![madao33's GitHub stats](https://github-readme-stats.vercel.app/api?username=madao33&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### And this is my languages used information
 
