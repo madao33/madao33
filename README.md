@@ -1,10 +1,8 @@
 ### Hello World. I'm madao33 & I ❤️ code.👋
 
-I am a postgraduate student in electronic information and currently studying at Chongqing University in Chongqing.
+I am an ai enginer in sophgo.
 
-I am focusing on noninvasive blood glucose detect using ppg signal or near infrad spectrum.
-
-* email: <madao33_com@163.com>
+* email: <peng.mi@sophgo.com>
 * wechat: madao33_com
 
 ### Here is something about my contribute
